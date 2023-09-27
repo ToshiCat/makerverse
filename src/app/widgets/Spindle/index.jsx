@@ -163,7 +163,7 @@ class SpindleWidget extends PureComponent {
         }
 
         this.workspace.activeState.updateControllerState(this.state.controller.state);
-        return this.workspace.activeState.canReceiveCommand;
+        return this.workspace.activeState.isReady;
     }
 
     render() {

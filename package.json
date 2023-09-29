@@ -2,7 +2,7 @@
   "name": "makerverse",
   "version": "1.1.3-laser",
   "description": "A web-based interface for CNC milling controller.",
-  "homepage": "https://github.com/makermadecnc/makerverse",
+  "homepage": "https://github.com/ToshiCat/makerverse",
   "author": "Maker Made <info@makermade.com>",
   "main": "./dist/makerverse/server-cli.js",
   "files": [
